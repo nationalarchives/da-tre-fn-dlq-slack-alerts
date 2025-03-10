@@ -1,10 +1,10 @@
 version: 2
 updates:
   - package-ecosystem: "pip"
-    directory: "/da-tre-fn-dlq-slack-alerts"
+    directory: "/tre-dlq-slack-alerts"
     schedule:
       interval: "daily"
   - package-ecosystem: "docker"
-    directory: "/da-tre-fn-dlq-slack-alerts"
+    directory: "/tre-dlq-slack-alerts"
     schedule:
       interval: "daily"
