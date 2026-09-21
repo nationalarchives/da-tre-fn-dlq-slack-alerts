@@ -1,2 +1,2 @@
 # Used by common GitHub Action build workflow
-urllib3==2.7.0
+urllib3==2.8.0
